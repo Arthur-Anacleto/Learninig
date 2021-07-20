@@ -1,0 +1,6 @@
+n1 = int(input('Digite um número: '))
+n2 = int(input('Digite mais um número: '))
+print('A soma entre {} e {} é {}.'.format(n1, n2, (n1 + n2)))
+n3 = float(input('Digite um número com casa decimal: '))
+n4 = float(input('Digite mais um número com casa decimal: '))
+print('A soma entre {} e {} é {}'.format(n3, n4, (n3 + n4)))
